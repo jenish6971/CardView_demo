@@ -1,0 +1,2 @@
+rootProject.name='card_demo'
+include ':app'
